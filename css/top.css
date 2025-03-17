@@ -1,0 +1,23 @@
+.top{
+    height: 130px;
+    margin-top: 0px;
+}
+.userlogin{
+    text-align: right;
+    height: 30px;
+    margin-bottom: 0px;
+}
+.userlogin a{
+    text-decoration: none;
+    color: white;
+    background-color: #034b8b;
+    font-size: 12px;
+    margin-right: 150px;
+    margin-top: 0px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+.top img {
+   margin-top: 0px; 
+   margin-left: 150px;
+}
